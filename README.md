@@ -6,7 +6,7 @@ Welcome to my GitHub! I work at the intersection of **data science**, **machine 
 
 ## 🧠 About Me
 
-- 🎓 **Background** in educational psychology and quantitative research, now fully immersed in data & AI.
+- 🎓 **Background** in educational psychology (DPhil) and quantitative research, now fully immersed in data & AI.
 - 🧪 Currently exploring **LLMs**, **semantic search**, and **natural language understanding**.
 - 🛠️ Proficient in **Python**, **Pandas**, **Scikit-learn**, **PyTorch**, **SQL**, and **Git**.
 - 🌍 Passionate about **applied AI**, particularly in **education**, **social impact**, and **product analytics**.
