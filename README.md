@@ -29,7 +29,7 @@ Welcome to my GitHub! I work at the intersection of **data science**, **machine 
 
 ## 📫 Let's connect!
 
-- 📨 Reach me at: `dominik.bulla@example.com`
+- 📨 Reach me at: `dominik.bulla@gmail.com`
 
 ---
 
